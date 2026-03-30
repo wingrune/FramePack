@@ -176,3 +176,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+outputs
+hf_download_f1
+__pycache__/
